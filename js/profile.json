@@ -589,13 +589,13 @@
 			"name": "Facebook",
 			"icon": "facebook.svg",
 			"link": "https://www.facebook.com/sandeep.mhrzn",
-			"sn":9
+			"sn":1
 		},
 		{
 			"name": "Github",
 			"icon": "github.svg",
 			"link": "https://github.com/sandeepmaharjan55",
-			"sn":1
+			"sn":4
 		},
 		{
 			"name": "LinkedIn",
@@ -604,46 +604,10 @@
 			"sn":2
 		},
 		{
-			"name": "Codeforces",
-			"icon": "codeforces.svg",
-			"link": "http://codeforces.com/profile/sawant",
-			"sn":3
-		},
-		{
-			"name": "Codechef",
-			"icon": "codechef.png",
-			"link": "https://www.codechef.com/users/moghya",
-			"sn":4
-		},
-		{
-			"name": "Hackerrank",
-			"icon": "hackerrank.svg",
-			"link": "https://www.hackerrank.com/moghya",
-			"sn":5
-		},
-		{
-			"name": "Hackerearth",
-			"icon": "hackerearth.png",
-			"link": "https://www.hackerearth.com/@moghya",
-			"sn":6
-		},
-		{
-			"name": "Medium",
-			"icon": "medium.svg",
-			"link": "https://medium.com/howcatcancode",
-			"sn":7
-		},	
-		{
-			"name": "Quora",
-			"icon": "quora.svg",
-			"link": "https://www.quora.com/profile/Sandeep-Sawant-5",
-			"sn":8
-		},	
-		{
 			"name": "Twitter",
 			"icon": "twitter.svg",
 			"link": "https://twitter.com/sandeepmah8",
-			"sn":10
+			"sn":3
 		}
 	],
 	"likes":[
