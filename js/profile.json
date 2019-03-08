@@ -1,17 +1,17 @@
 {
 	"personalInfo": {
 		"myimg": "image.jpg",
-		"fname": "Shubham",
-		"mname": "Parashram",
-		"lname": "Sawant",
-		"nick":"moghya",
+		"fname": "Sandeep",
+		"mname": "",
+		"lname": "Maharjan",
+		"nick":"Sun",
 		"address": {
-			"list": ["Gupta Layout, Mahakali road, Washim, District-Washim, Maharashtra, India 444505 ",
-				"'OM' Jaihind colony, Vishrambag, Sangli District-Sangli, Maharashtra, India 416415"
+			"list": ["Khusibu, Kathmandu, Nepal ",
+				"Swastik Colony, Dhapasi, Kathmandu, Nepal"
 			]
 		},
-		"email": "sawantshubham571@gmail.com",
-		"mob": "+919881464434"
+		"email": "sandeepmaharjan55@gmail.com",
+		"mob": "+9779843089925, +9779808248647"
 	},
 	"educations": [
 		{
