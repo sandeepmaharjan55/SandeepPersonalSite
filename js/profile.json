@@ -4,7 +4,7 @@
 		"fname": "Sandeep",
 		"mname": "",
 		"lname": "Maharjan",
-		"nick":"Sun",
+		"nick":"Sandeep",
 		"address": {
 			"list": ["Khusibu, Kathmandu, Nepal ",
 				"Swastik Colony, Dhapasi, Kathmandu, Nepal"
@@ -583,24 +583,24 @@
 			"link":"https://github.com/moghya/toGithub"
 		}
 	],
-	"summary": "Hi, I’m Shubham. I believe in Maths. I seek to learn and try to apply all that I learn in a way that makes life easier. I can design and develop technology solutions. Mathematics, Algorithms, Data Structures  and Machine Learning are my areas of Interest. I'm looking for an Internship where I can learn and grow by using my tech skills and make this world a better place.",
+	"summary": "Hi, I’m Sandeep. I believe in Maths. I seek to learn and try to apply all that I learn in a way that makes life easier. I can design and develop technology solutions. Mathematics, Algorithms, Data Structures  and Machine Learning are my areas of Interest. I'm looking for an Internship where I can learn and grow by using my tech skills and make this world a better place.",
 	"profileLinks": [
 		{
 			"name": "Facebook",
 			"icon": "facebook.svg",
-			"link": "https://www.facebook.com/moghya",
+			"link": "https://www.facebook.com/sandeep.mhrzn",
 			"sn":9
 		},
 		{
 			"name": "Github",
 			"icon": "github.svg",
-			"link": "https://github.com/moghya",
+			"link": "https://github.com/sandeepmaharjan55",
 			"sn":1
 		},
 		{
 			"name": "LinkedIn",
 			"icon": "linkedin.svg",
-			"link": "https://www.linkedin.com/in/shubham-sawant-67074a86/",
+			"link": "https://www.linkedin.com/in/sandeep-maharjan-3774b5111/",
 			"sn":2
 		},
 		{
@@ -636,7 +636,7 @@
 		{
 			"name": "Quora",
 			"icon": "quora.svg",
-			"link": "https://www.quora.com/profile/Shubham-Sawant-5",
+			"link": "https://www.quora.com/profile/Sandeep-Sawant-5",
 			"sn":8
 		},	
 		{
