@@ -16,12 +16,12 @@
 	"educations": [
 		{
 
-			"periodStart": "July 2014",
-			"periodEnd": "May 2018",
-			"course": "B.Tech Information Technology",
-			"score": "7.59 CGPA",
-			"inst": "Walchand College of Engineering, Sangli",
-			"board": "Shivaji University",
+			"periodStart": "2013",
+			"periodEnd": "February 2019",
+			"course": "Computer Engineering",
+			"score": "68%",
+			"inst": "Kantipur Engineering College, Dhapakhel, Lalitpur",
+			"board": "Tribhuvan University",
 			"courses": [
 				{
 					"courseCode": "3IT202",
@@ -266,12 +266,12 @@
 		},
 		{
 
-			"periodStart": "April 2013",
-			"periodEnd": "May 2014",
-			"course": "All India Senior School Examination",
-			"score": "89.4%",
-			"inst": "Jawahar Navodaya Vidyalaya,Washim",
-			"board": "CBSE Chennai",
+			"periodStart": "",
+			"periodEnd": "2013",
+			"course": "Science",
+			"score": "69.8%",
+			"inst": "Bhanubhakta Memorial College, Panipokhari, Kathmandu",
+			"board": "HSEB",
 			"courses": [{
 					"courseCode": "041",
 					"courseName": "Mathemactics",
@@ -300,12 +300,12 @@
 		},
 		{
 
-			"periodStart": "April 2011",
-			"periodEnd": "May 2012",
-			"course": "All India Secondary School Examination",
-			"score": "10.00 CGPA",
-			"inst": "Jawahar Navodaya Vidyalaya,Washim",
-			"board": "CBSE Chennai",
+			"periodStart": "",
+			"periodEnd": "2011",
+			"course": "SLC",
+			"score": "87.13%",
+			"inst": "Bhanubhakta M.H.S.S., Panipokhari, Kathmandu",
+			"board": "Nepal Government",
 			"courses": [{
 					"courseCode": "041",
 					"courseName": "Mathemactics",
@@ -668,5 +668,5 @@
 		"If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
 		"Tabs are better than spaces."
 	],
-	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently I'm working as Software Engineer at <a href='#'>Bigfoot Infotech Pvt. Ltd. I am also one of the Co-Founder at Walkman-'Green Coins'. Studied Computer Engineering at Kantipur Engineering College. I do Web development.I overwhelmingly like C++, PHP and .Net :)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
+	"helloText":"<p>Thanks for visiting my webspace.</p><p>Currently I'm working as Software Engineer at <a href='#'>Bigfoot Infotech Pvt. Ltd. I am also one of the Co-Founder at Walkman-'Green Coins'. I had studied Computer Engineering from Kantipur Engineering College. I do Web development.I overwhelmingly like C++, PHP and .Net :)</p><p>How can I help you ?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common ?</br>Let's have a talk about it and grow together.</br> We don't have anything in common ?</br>Oh then that's great, please introduce me something that I'm missing.</p>"
 }
