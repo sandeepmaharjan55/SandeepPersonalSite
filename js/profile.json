@@ -18,7 +18,7 @@
 
 			"periodStart": "2013",
 			"periodEnd": "February 2019",
-			"course": "Computer Engineering",
+			"course": "B.E. in Computer Engineering",
 			"score": "68%",
 			"inst": "Kantipur Engineering College, Dhapakhel, Lalitpur",
 			"board": "Tribhuvan University",
@@ -268,7 +268,7 @@
 
 			"periodStart": "",
 			"periodEnd": "2013",
-			"course": "Science",
+			"course": "+2",
 			"score": "69.8%",
 			"inst": "Bhanubhakta Memorial College, Panipokhari, Kathmandu",
 			"board": "HSEB",
@@ -307,16 +307,58 @@
 			"inst": "Bhanubhakta M.H.S.S., Panipokhari, Kathmandu",
 			"board": "Nepal Government",
 			"courses": [{
-					"courseCode": "041",
+					"courseCode": "1",
 					"courseName": "Mathemactics",
-					"courseScore": "10/10",
+					"courseScore": "98/100",
 					"sn": 1
 				},
 				{
-					"courseCode": "086",
+					"courseCode": "2",
 					"courseName": "Science",
-					"courseScore": "10/10",
+					"courseScore": "94/100",
 					"sn": 2
+				}
+				,
+				{
+					"courseCode": "3",
+					"courseName": "English",
+					"courseScore": "84/100",
+					"sn": 3
+				}
+				,
+				{
+					"courseCode": "4",
+					"courseName": "Nepali",
+					"courseScore": "70/100",
+					"sn": 4
+				}
+				,
+				{
+					"courseCode": "5",
+					"courseName": "Social Studies",
+					"courseScore": "83/100",
+					"sn": 5
+				}
+				,
+				{
+					"courseCode": "6",
+					"courseName": "Health, Pop & Env Edu",
+					"courseScore": "79/100",
+					"sn": 6
+				}
+				,
+				{
+					"courseCode": "7",
+					"courseName": "Optional Mathematics",
+					"courseScore": "92/100",
+					"sn": 7
+				}
+				,
+				{
+					"courseCode": "8",
+					"courseName": "Computer Science",
+					"courseScore": "97/100",
+					"sn": 8
 				}
 			]
 		}
