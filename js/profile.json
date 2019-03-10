@@ -273,28 +273,70 @@
 			"inst": "Bhanubhakta Memorial College, Panipokhari, Kathmandu",
 			"board": "HSEB",
 			"courses": [{
-					"courseCode": "041",
+					"courseCode": "XI",
 					"courseName": "Mathemactics",
-					"courseScore": "86/100",
+					"courseScore": "66/100",
 					"sn": 1
 				},
 				{
-					"courseCode": "042",
+					"courseCode": "XI",
 					"courseName": "Physics",
-					"courseScore": "87/100",
+					"courseScore": "76/100",
 					"sn": 2
 				},
 				{
-					"courseCode": "043",
+					"courseCode": "XI",
 					"courseName": "Chemistry",
-					"courseScore": "86/100",
+					"courseScore": "70/100",
 					"sn": 3
 				},
 				{
-					"courseCode": "083",
-					"courseName": "Computer Science",
-					"courseScore": "94/100",
+					"courseCode": "XI",
+					"courseName": "Biology",
+					"courseScore": "78/100",
 					"sn": 4
+				}
+				,
+				{
+					"courseCode": "XI",
+					"courseName": "English",
+					"courseScore": "70/100",
+					"sn": 5
+				}
+				,
+				{
+					"courseCode": "XII",
+					"courseName": "Physics",
+					"courseScore": "79/100",
+					"sn": 6
+				}
+				,
+				{
+					"courseCode": "XII",
+					"courseName": "Mathematics",
+					"courseScore": "71/100",
+					"sn": 7
+				}
+				,
+				{
+					"courseCode": "XII",
+					"courseName": "Nepali",
+					"courseScore": "60/100",
+					"sn": 8
+				}
+				,
+				{
+					"courseCode": "XII",
+					"courseName": "Chemistry",
+					"courseScore": "65/100",
+					"sn": 9
+				}
+				,
+				{
+					"courseCode": "XII",
+					"courseName": "English",
+					"courseScore": "63/100",
+					"sn": 10
 				}
 			]
 		},
