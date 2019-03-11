@@ -281,12 +281,12 @@
 		}
 		,
 		{
-			"sn":2, "projectTitle": "Decision Support System For Human Resource Management System(HRMS) (Final Year Project)",
+			"sn":2, "projectTitle": "Decision Support System For Human Resource Management System(HRMS)",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": [".Net MVC","Microsoft SQL Server Management"],
 			"tags": ["hrms","decisionsupportsystem","dotnet","dotnethrms"],
-			"shortInfo": "It is a web based application and it assists in managerial decision making.",
+			"shortInfo": "Major Project<br/>It is a web based application and it assists in managerial decision making.",
 			"link":"#"
 		},
 		{
@@ -295,7 +295,7 @@
 			"periodEnd": "",
 			"toolsUsed": ["PHP","mysql"],
 			"tags": ["agronepal","onlineagriculturaltools","ecommerce"],
-			"shortInfo": "AgroNepal is web based interactive platform. It gives information about various agriculture product, buy and sell products, allows the farmer to know the user about the crop cycle",
+			"shortInfo": "Minor Project<br/>AgroNepal is web based interactive platform. It gives information about various agriculture product, buy and sell products, allows the farmer to know the user about the crop cycle",
 			"link":"#"
 		},
 		{
