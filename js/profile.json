@@ -6,7 +6,7 @@
 		"lname": "Maharjan",
 		"nick":"Sandeep",
 		"address": {
-			"list": ["Swastik Colony, Dhapasi, Kathmandu, Nepal"]
+			"list": ["Dhapasi, Kathmandu, Nepal"]
 		},
 		"email": "sandeepmaharjan55@gmail.com",
 		"mob": "+9779843089***, +9779808248***"
@@ -14,8 +14,8 @@
 	"educations": [
 		{
 
-			"periodStart": "2013",
-			"periodEnd": "",
+			"periodStart": "",
+			"periodEnd": "2018",
 			"course": "B.E. in Computer Engineering",
 			"score": "First Division",
 			"inst": "Kantipur Engineering College, Dhapakhel, Lalitpur",
