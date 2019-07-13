@@ -233,8 +233,8 @@
 			"sn":1, "projectTitle": "Walkman-'Green Coins'",
 			"periodStart": "2018",
 			"periodEnd": "Present",
-			"toolsUsed": ["node js"],
-			"tags": ["nodejs","greencoins","walkman"],
+			"toolsUsed": [""],
+			"tags": ["","greencoins","walkman","togetherwecan","forbettertomorrow"],
 			"shortInfo": "It is an android app where you can earn discount after you walk. It is like a walk and earn. Team Members: Ashik Subedi, Sushant Chalise, Sandeep Maharjan & Suyam Baidya",
 			"link":"#"
 		}
