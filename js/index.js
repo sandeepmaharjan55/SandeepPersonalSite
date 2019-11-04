@@ -106,7 +106,7 @@ var profile;
 	swal(
 		{
 			title:"helloWorld!!!",
-			text:"Hello visitor, you have landed upon personal site of Sandeep.",
+			text:"Hello visitor, you have landed upon Sandeep's profile.",
 			confirmButtonColor:"#1f1f1f"
 		}
 	);
