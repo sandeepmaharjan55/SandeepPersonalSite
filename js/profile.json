@@ -193,35 +193,42 @@
 	],
 	"works": [
 		{
-			"sn":5,"link":"#","workPosition": "Data Analyst",
+			"sn":6,"link":"#","workPosition": "Data Analyst",
 			"periodStart": "",
 			"periodEnd": "",
 			"organisation": "Cloudfactory",
 			"experience": ""
 		},
 		{
-			"sn":4,"link":"#","workPosition": "Elite Worker",
+			"sn":5,"link":"#","workPosition": "Elite Worker",
 			"periodStart": "",
 			"periodEnd": "",
 			"organisation": "Cloudfactory",
 			"experience": ""
 		},
 		{
-			"sn":1,"link":"#","workPosition": "Co-Founder",
+			"sn":2,"link":"https://www.facebook.com/WalkmanGreenCoins/","workPosition": "Co-Founder",
 			"periodStart": "",
 			"periodEnd": "",
 			"organisation": "Walkman-'Green Coins' ",
 			"experience": ""
 		},
 		{
-			"sn":3,"link":"#","workPosition": "Software Engineer",
+			"sn":1,"link":"https://www.facebook.com/greencoinsglobal/","workPosition": "Co-Founder",
+			"periodStart": "",
+			"periodEnd": "",
+			"organisation": "Green Coins",
+			"experience": ""
+		},
+		{
+			"sn":4,"link":"#","workPosition": "Software Engineer",
 			"periodStart": "",
 			"periodEnd": "",
 			"organisation": "SmartTech Nepal Pvt. Ltd.",
 			"experience": ""
 		},
 		{
-			"sn":2,"link":"#","workPosition": "Software Engineer",
+			"sn":3,"link":"#","workPosition": "Software Engineer",
 			"periodStart": "",
 			"periodEnd": "Present",
 			"organisation": "Bigfoot Infotech Pvt. Ltd.",
