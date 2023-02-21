@@ -17,7 +17,7 @@
 			"periodStart": "",
 			"periodEnd": "2018",
 			"course": "B.E. in Computer Engineering",
-			"score": "First Division",
+			"score": "",
 			"inst": "Kantipur Engineering College, Dhapakhel, Lalitpur",
 			"board": "Tribhuvan University",
 			"courses": []
@@ -27,7 +27,7 @@
 			"periodStart": "",
 			"periodEnd": "2013",
 			"course": "+2",
-			"score": "First Division",
+			"score": "",
 			"inst": "Bhanubhakta Memorial College, Panipokhari, Kathmandu",
 			"board": "HSEB",
 			"courses": []
@@ -37,7 +37,7 @@
 			"periodStart": "",
 			"periodEnd": "2011",
 			"course": "SLC",
-			"score": "Distinction",
+			"score": "",
 			"inst": "Bhanubhakta M.H.S.S., Panipokhari, Kathmandu",
 			"board": "Nepal Government",
 			"courses": [{
@@ -221,14 +221,14 @@
 			"experience": ""
 		},
 		{
-			"sn":4,"link":"#","workPosition": "Software Developer",
+			"sn":4,"link":"#","workPosition": "Software Engineer",
 			"periodStart": "",
 			"periodEnd": "",
 			"organisation": "Smart Tech Nepal Pvt. Ltd.",
 			"experience": ""
 		},
 		{
-			"sn":3,"link":"#","workPosition": "Software Developer",
+			"sn":3,"link":"#","workPosition": "Software Engineer",
 			"periodStart": "",
 			"periodEnd": "Past",
 			"organisation": "Bigfoot Infotech Pvt. Ltd.",
