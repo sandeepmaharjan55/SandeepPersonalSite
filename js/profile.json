@@ -247,7 +247,17 @@
 	],
 	"projects":[
 		{
-			"sn":1, "projectTitle": "Walkman-'Green Coins'",
+			"sn":1, "projectTitle": "Inksvilla - Tattoo Digitalization",
+			"periodStart": "",
+			"periodEnd": "2022",
+			"toolsUsed": [""],
+			"tags": ["","tattoohousenepal","tattoonepal","tattooappointment","siliconvalley"],
+			"shortInfo": "It is an android app where you can book appointment for the tattoo. #Startup World Cup Nepal 2022 Regional Winner.",
+			"link":"https://www.facebook.com/profile.php?id=100064834752015"
+		}
+		,
+		{
+			"sn":2, "projectTitle": "Walkman-'Green Coins'",
 			"periodStart": "2018",
 			"periodEnd": "Present",
 			"toolsUsed": [""],
@@ -257,7 +267,7 @@
 		}
 		,
 		{
-			"sn":2, "projectTitle": "Decision Support System For Human Resource Management System(HRMS)",
+			"sn":3, "projectTitle": "Decision Support System For Human Resource Management System(HRMS)",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": [".Net MVC","Microsoft SQL Server Management"],
@@ -266,7 +276,7 @@
 			"link":"#"
 		},
 		{
-			"sn":3, "projectTitle": "AgroNepal",
+			"sn":4, "projectTitle": "AgroNepal",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": ["PHP","mysql"],
@@ -275,7 +285,7 @@
 			"link":"#"
 		},
 		{
-			"sn":4, "projectTitle": "Employee Management System",
+			"sn":5, "projectTitle": "Employee Management System",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": ["C++","DevC++"],
@@ -284,7 +294,7 @@
 			"link":"#"
 		},
 		{
-			"sn":5, "projectTitle": "RainMan",
+			"sn":6, "projectTitle": "RainMan",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": ["C","DevC"],
