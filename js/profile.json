@@ -9,9 +9,19 @@
 			"list": ["Kathmandu, Nepal"]
 		},
 		"email": "sandeepmaharjan34@gmail.com",
-		"mob": "9********5"
+		"mob": "7********4"
 	},
 	"educations": [
+		{
+
+			"periodStart": "2022",
+			"periodEnd": "expected May 2024",
+			"course": "M.S. in Computer Science",
+			"score": "",
+			"inst": "UNLV",
+			"board": "",
+			"courses": []
+		},
 		{
 
 			"periodStart": "",
