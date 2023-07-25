@@ -333,6 +333,12 @@
 			"icon": "twitter.svg",
 			"link": "https://www.twitter.com/@iamsandeepmah",
 			"sn":3
+		},
+		{
+			"name": "Medium",
+			"icon": "Medium.svg",
+			"link": "https://medium.com/@sandeepmaharjan",
+			"sn":5
 		}
 	],
 	"likes":[
