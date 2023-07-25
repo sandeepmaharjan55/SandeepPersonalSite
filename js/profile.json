@@ -313,31 +313,31 @@
 		{
 			"name": "Facebook",
 			"icon": "facebook.svg",
-			"link": "bit.ly/2TPleUv",
+			"link": "https://bit.ly/2TPleUv",
 			"sn":1
 		},
 		{
 			"name": "Github",
 			"icon": "github.svg",
-			"link": "bit.ly/33r5SZC",
+			"link": "https://bit.ly/33r5SZC",
 			"sn":4
 		},
 		{
 			"name": "LinkedIn",
 			"icon": "linkedin.svg",
-			"link": "bit.ly/38Q6lFQ",
+			"link": "https://bit.ly/38Q6lFQ",
 			"sn":2
 		},
 		{
 			"name": "Twitter",
 			"icon": "twitter.svg",
-			"link": "bit.ly/3DrDpWg",
+			"link": "https://bit.ly/3DrDpWg",
 			"sn":3
 		},
 		{
 			"name": "Medium",
-			"icon": "Medium.svg",
-			"link": "bit.ly/3rHzlyH",
+			"icon": "medium.svg",
+			"link": "https://bit.ly/3rHzlyH",
 			"sn":5
 		}
 	],
