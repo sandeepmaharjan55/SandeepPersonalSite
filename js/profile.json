@@ -252,7 +252,7 @@
 	],
 	"projects":[
 		{
-			"sn":1, "projectTitle": "Node Authenticaiton Setupn",
+			"sn":1, "projectTitle": "Node Authenticaiton Setup",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": ["nodeJs", "expressJs","mongodb","yarn","validation"],
