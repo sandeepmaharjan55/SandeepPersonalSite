@@ -285,10 +285,10 @@
 			"sn":4, "projectTitle": "Decision Support System For Human Resource Management System(HRMS)",
 			"periodStart": "",
 			"periodEnd": "",
-			"toolsUsed": [".Net MVC","Microsoft SQL Server Management"],
+			"toolsUsed": ["Asp.Net MVC","Microsoft SQL Server Management"],
 			"tags": ["hrms","decisionsupportsystem","dotnet","dotnethrms"],
 			"shortInfo": "Major Project<br/>It is a web based application and it assists in managerial decision making.",
-			"link":"#"
+			"link":"https://github.com/sandeepmaharjan55/DSSfHRM"
 		},
 		{
 			"sn":5, "projectTitle": "AgroNepal",
