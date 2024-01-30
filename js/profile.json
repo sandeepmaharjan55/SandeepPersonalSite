@@ -252,7 +252,17 @@
 	],
 	"projects":[
 		{
-			"sn":1, "projectTitle": "Inksvilla - Tattoo Digitalization",
+			"sn":1, "projectTitle": "Node Authenticaiton Setupn",
+			"periodStart": "",
+			"periodEnd": "",
+			"toolsUsed": ["nodeJs", "expressJs","mongodb","yarn","validation"],
+			"tags": ["nodeJs","expressJs","mongodb","nosql","yarn","checkRole","generateToken", "authentication","passportJs"],
+			"shortInfo": "Auth setup using nodeJs, expressJs, mongoDb",
+			"link":"https://github.com/sandeepmaharjan55/node-auth-setup"
+		}
+		,
+		{
+			"sn":2, "projectTitle": "Inksvilla - Tattoo Digitalization",
 			"periodStart": "",
 			"periodEnd": "2022",
 			"toolsUsed": [""],
@@ -262,7 +272,7 @@
 		}
 		,
 		{
-			"sn":2, "projectTitle": "Walkman-'Green Coins'",
+			"sn":3, "projectTitle": "Walkman-'Green Coins'",
 			"periodStart": "2018",
 			"periodEnd": "Present",
 			"toolsUsed": [""],
@@ -272,7 +282,7 @@
 		}
 		,
 		{
-			"sn":3, "projectTitle": "Decision Support System For Human Resource Management System(HRMS)",
+			"sn":4, "projectTitle": "Decision Support System For Human Resource Management System(HRMS)",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": [".Net MVC","Microsoft SQL Server Management"],
@@ -281,25 +291,25 @@
 			"link":"#"
 		},
 		{
-			"sn":4, "projectTitle": "AgroNepal",
+			"sn":5, "projectTitle": "AgroNepal",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": ["PHP","mysql"],
 			"tags": ["agronepal","onlineagriculturaltools","ecommerce"],
 			"shortInfo": "Minor Project<br/>AgroNepal is web based interactive platform. It gives information about various agriculture product, buy and sell products, allows the farmer to know the user about the crop cycle",
-			"link":"#"
+			"link":"https://github.com/sandeepmaharjan55/AgroNepal"
 		},
 		{
-			"sn":5, "projectTitle": "Employee Management System",
+			"sn":6, "projectTitle": "Employee Management System",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": ["C++","DevC++"],
 			"tags": ["employeemanage","EMS","systemtomanageemployee"],
 			"shortInfo": "It is a menu driven program which allows us to add, update, delete and search record of an employee working in an organization.",
-			"link":"#"
+			"link":"https://github.com/sandeepmaharjan55/employeeMS"
 		},
 		{
-			"sn":6, "projectTitle": "RainMan",
+			"sn":7, "projectTitle": "RainMan",
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": ["C","DevC"],
