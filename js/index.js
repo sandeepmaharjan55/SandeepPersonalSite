@@ -33,7 +33,7 @@ function loadProjects(projects){
 		project+=toolsUsed;
 		tags = '<div class=row">'
 		for(j=0;j<projects[i].tags.length;j++)tags+='<span class="tag">#'+projects[i].tags[j]+'</span>&nbsp';
-		tags+='Link To Project: <a href="'+projects[i].link+'" target="_blank"><i class="material-icons right">language</i></a></div>';
+		tags+='<a href="'+projects[i].link+'" target="_blank">Project link: <i class="material-icons right">language</i></a></div>';
 		project+=tags;
 		project+='</div><div class="col m6 s12 details">'+projects[i].shortInfo+'</div></div>';
 		projectsInnerHTML+=project;
