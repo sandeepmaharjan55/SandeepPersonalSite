@@ -6,7 +6,7 @@
 		"lname": "Maharjan",
 		"nick":"Sandeep",
 		"address": {
-			"list": ["Kathmandu, Nepal"]
+			"list": ["Las Vegas, Nevada, USA"]
 		},
 		"email": "sandeepmaharjan34@gmail.com",
 		"mob": "7********4"
@@ -15,7 +15,7 @@
 		{
 
 			"periodStart": "2022",
-			"periodEnd": "Expected graduation May 2024",
+			"periodEnd": "Expected Graduation Date - May 2024",
 			"course": "M.S. in Computer Science",
 			"score": "",
 			"inst": "UNLV",
