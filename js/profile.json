@@ -210,35 +210,35 @@
 		{
 			"sn":6,"link":"#","workPosition": "Data Entry",
 			"periodStart": "",
-			"periodEnd": "",
+			"periodEnd": "Past",
 			"organisation": "Cloudfactory",
 			"experience": ""
 		},
 		{
 			"sn":5,"link":"#","workPosition": "Elite Worker",
 			"periodStart": "",
-			"periodEnd": "",
+			"periodEnd": "Past",
 			"organisation": "Cloudfactory",
 			"experience": ""
 		},
 		{
 			"sn":2,"link":"https://www.facebook.com/WalkmanGreenCoins/","workPosition": "Co-Founder",
 			"periodStart": "",
-			"periodEnd": "",
+			"periodEnd": "Past",
 			"organisation": "Walkman-'Green Coins' ",
 			"experience": ""
 		},
 		{
 			"sn":1,"link":"https://www.facebook.com/greencoinsglobal/","workPosition": "Co-Founder",
 			"periodStart": "",
-			"periodEnd": "",
+			"periodEnd": "Past",
 			"organisation": "Green Coins",
 			"experience": ""
 		},
 		{
 			"sn":4,"link":"#","workPosition": "Software Engineer",
 			"periodStart": "",
-			"periodEnd": "",
+			"periodEnd": "Past",
 			"organisation": "Smart Tech Nepal Pvt. Ltd.",
 			"experience": ""
 		},
@@ -266,7 +266,7 @@
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": [""],
-			"tags": ["","tattoohousenepal","tattoonepal","tattooappointment","siliconvalley"],
+			"tags": ["tattoohousenepal","tattoonepal","tattooappointment","siliconvalley"],
 			"shortInfo": "It is an android app where you can book appointment for the tattoo. #Startup World Cup Nepal 2022 Regional Winner.",
 			"link":"https://play.google.com/store/apps/details?id=com.inksvilla.tattoo_house"
 		}
@@ -276,7 +276,7 @@
 			"periodStart": "",
 			"periodEnd": "",
 			"toolsUsed": [""],
-			"tags": ["","greencoins","walkman","togetherwecan","forbettertomorrow"],
+			"tags": ["greencoins","walkman","togetherwecan","forbettertomorrow"],
 			"shortInfo": "It is an android app where you can earn discount after you walk. It is like a walk and earn. Team Members: Ashik Subedi, Sushant Chalise, Sandeep Maharjan & Suyam Baidya",
 			"link":"#"
 		}
