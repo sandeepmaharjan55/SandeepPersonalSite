@@ -208,47 +208,56 @@
 	],
 	"works": [
 		{
-			"sn":6,"link":"#","workPosition": "Data Entry",
-			"periodStart": "",
-			"periodEnd": "Past",
-			"organisation": "Cloudfactory",
+			"sn":1,"link":"","workPosition": "Graduate Assistant",
+			"periodStart": "2022",
+			"periodEnd": "Present",
+			"organisation": "University of Nevada Las Vegas",
 			"experience": ""
 		},
 		{
-			"sn":5,"link":"#","workPosition": "Elite Worker",
-			"periodStart": "",
-			"periodEnd": "Past",
-			"organisation": "Cloudfactory",
-			"experience": ""
-		},
-		{
-			"sn":2,"link":"https://www.facebook.com/WalkmanGreenCoins/","workPosition": "Co-Founder",
-			"periodStart": "",
-			"periodEnd": "Past",
-			"organisation": "Walkman-'Green Coins' ",
-			"experience": ""
-		},
-		{
-			"sn":1,"link":"https://www.facebook.com/greencoinsglobal/","workPosition": "Co-Founder",
+			"sn":2,"link":"https://www.facebook.com/greencoinsglobal/","workPosition": "Co-Founder",
 			"periodStart": "",
 			"periodEnd": "Past",
 			"organisation": "Green Coins",
 			"experience": ""
 		},
 		{
+			"sn":3,"link":"https://www.facebook.com/WalkmanGreenCoins/","workPosition": "Co-Founder",
+			"periodStart": "",
+			"periodEnd": "Past",
+			"organisation": "Walkman-'Green Coins' ",
+			"experience": ""
+		},
+		{
 			"sn":4,"link":"#","workPosition": "Software Engineer",
+			"periodStart": "",
+			"periodEnd": "Past",
+			"organisation": "Bigfoot Infotech Pvt. Ltd.",
+			"experience": ""
+		},
+		{
+			"sn":5,"link":"#","workPosition": "Software Engineer",
 			"periodStart": "",
 			"periodEnd": "Past",
 			"organisation": "Smart Tech Nepal Pvt. Ltd.",
 			"experience": ""
 		},
 		{
-			"sn":3,"link":"#","workPosition": "Software Engineer",
+			"sn":6,"link":"#","workPosition": "Elite Worker",
 			"periodStart": "",
 			"periodEnd": "Past",
-			"organisation": "Bigfoot Infotech Pvt. Ltd.",
+			"organisation": "Cloudfactory",
+			"experience": ""
+		},
+		{
+			"sn":7,"link":"#","workPosition": "Data Entry",
+			"periodStart": "",
+			"periodEnd": "Past",
+			"organisation": "Cloudfactory",
 			"experience": ""
 		}
+		
+		
 	],
 	"projects":[
 		{
